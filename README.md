@@ -23,7 +23,7 @@
     <img src="https://githubstats-psi.vercel.app/api/top-langs/?username=dimassebastian&layout=compact&theme=radical" alt="Top Langs">
        &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://streak-stats.demolab.com/?user=dimassebastian&theme=dark" alt="GitHub Streak">
-     [![Harlok's WakaTime stats](https://githubstats-psi.vercel.app/api/wakatime?username=dimasseabstian)]
+     <img src="https://githubstats-psi.vercel.app/api/wakatime?username=dimassebastian" >
   </div>
 
  
